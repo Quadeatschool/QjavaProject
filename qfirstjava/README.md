@@ -6,7 +6,7 @@
 
 {Provide a description of the software that you wrote to demonstrate the Java language.}
 
-{Describe your purpose for writing this software.}
+My purpose in writing this soft ware is to gain an understanding of the java programming language.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 

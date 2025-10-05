@@ -23,6 +23,12 @@ public abstract class SkillBase {
         return prerequisites;
     }
 
+    public String getName() {
+        return name;
+    }
+
+    
+
 
 
 
