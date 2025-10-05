@@ -1,5 +1,5 @@
 package qfirstjava;
 
-public class MainForm {
+public class MainWindow {
     
 }
