@@ -1,12 +1,14 @@
 # Overview
 
-{I'm atttempting to make a basic skilltree like one would see in video game. This project will give me a chance to learn java in wide variety of aspects.}
+I'm atttempting to make a basic skilltree like one would see in video game. This project will give me a chance to learn java in wide variety of aspects.
 
 -----------------------------------
 
 {Provide a description of the software that you wrote to demonstrate the Java language.}
 
 My purpose in writing this soft ware is to gain an understanding of the java programming language.
+
+-------------------------------------
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
@@ -17,6 +19,8 @@ My purpose in writing this soft ware is to gain an understanding of the java pro
 {Describe the tools that you used to develop the software}
 
 {Describe the programming language that you used and any libraries.}
+
+Java
 
 # Useful Websites
 
