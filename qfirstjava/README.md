@@ -12,11 +12,13 @@ My purpose in writing this soft ware is to gain an understanding of the java pro
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+
+[Software Demo Video](link: I need to be added to the slack channel)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I made a class dragram to oraganize my plan. I used VSCODE and its various tools as my sandbox.
+I used A.I to help me brain storm on solutions.
 
 {Describe the programming language that you used and any libraries.}
 
@@ -26,7 +28,7 @@ Java
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
+- [Web Site Name](https://www.w3schools.com/java/default.asp)
 - [Web Site Name](http://url.link.goes.here)
 
 # Future Work
