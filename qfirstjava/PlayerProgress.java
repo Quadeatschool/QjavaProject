@@ -1,27 +1,23 @@
 package qfirstjava;
-import java.util.Set;
 import java.util.HashSet;
+import java.util.Set;
 
 public class PlayerProgress {
-
-    // ------------------------- variables 
-    private Set<SkillBase> unlockedSkills = new HashSet<>();
     
-    //-----------------getter
-    // public Set<SkillBase> getUnlockedSkills(){
-    //     return unlockedSkills;
-    // }
+    private Set<SkillBase> unlockedSkills = new HashSet<>();
 
-// -----------------------------logic
-    public boolean isUnlocked(SkillBase skill) {
-       return unlockedSkills.contains(skill);
+    public PlayerProgress() {
     }
 
-    public boolean unlockedSkill(SkillBase skill)
-    {
-        if (skill.canUnlock(this)){
-            skill.Unlock();
-            unlockedSkills.add(skill);
+    public boolean isUnlocked(SkillBase skill) {
+        return this.unlockedSkills.contains(skill);
+    }
+
+    public boolean unlockedSkill(SkillBase skill) {
+        // Checks if the skill's unlock conditions are met
+        if (skill.canUnlock(this)) {
+            skill.unlock(); 
+            this.unlockedSkills.add(skill);
             return true;
         }
         return false;

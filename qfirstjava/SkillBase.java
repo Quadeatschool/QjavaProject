@@ -37,7 +37,7 @@ public abstract class SkillBase {
     }
 // ------------------------------- logic
 
-    public void Unlock(){
+    public void unlock(){
         isUnlocked = true;
     }
 

@@ -4,7 +4,10 @@ import java.util.List;
 
 public class SkillFactory {
 
+//---------------constructor 
     private SkillFactory(){}
+
+//--------logic
 
     // Creates and returns a default skill tree with all skill levels.
     public static SkillTree createDefaultTree() {

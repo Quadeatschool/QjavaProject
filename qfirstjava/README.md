@@ -5,6 +5,7 @@ I'm atttempting to make a basic skilltree like one would see in video game. This
 -----------------------------------
 
 {Provide a description of the software that you wrote to demonstrate the Java language.}
+My program creates skills that are depended on previous skills being completed in order new ones to be unlocked. 
 
 My purpose in writing this soft ware is to gain an understanding of the java programming language.
 
@@ -22,10 +23,13 @@ I used A.I to help me brain storm on solutions and teach me java syntax.
 
 {Describe the programming language that you used and any libraries.}
 
-Java is a object oriented programing language.
+Java is a object oriented programing language that can run any platform that supports it without needing to be recopiled. This makes java super popular because can be used to do a lot and it can run pretty much anywhere.
+
 used
 import java.util.ArrayList;
 import java.util.List;
+import java.util.HashSet;
+import java.util.Set;
 
 
 # Useful Websites
@@ -36,8 +40,6 @@ websites that I found helpful for this project
 - [Web Site Name](https://gemini.google.com/app)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
 
 - Item I neeed to make a jframe and set things up for the gui and put that all into its own class.
 - Item 2 I want to make user input possible so I can make custom skills and record them to a file for later.
