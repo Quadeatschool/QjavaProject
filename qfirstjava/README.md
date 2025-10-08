@@ -18,15 +18,19 @@ My purpose in writing this soft ware is to gain an understanding of the java pro
 # Development Environment
 
 I made a class dragram to oraganize my plan. I used VSCODE and its various tools as my sandbox.
-I used A.I to help me brain storm on solutions.
+I used A.I to help me brain storm on solutions and teach me java syntax.
 
 {Describe the programming language that you used and any libraries.}
 
-Java
+Java is a object oriented programing language.
+used
+import java.util.ArrayList;
+import java.util.List;
+
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+websites that I found helpful for this project
 
 - [Web Site Name](https://www.w3schools.com/java/default.asp)
 - [Web Site Name](https://gemini.google.com/app)
