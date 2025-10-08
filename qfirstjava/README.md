@@ -29,12 +29,12 @@ Java
 {Make a list of websites that you found helpful in this project}
 
 - [Web Site Name](https://www.w3schools.com/java/default.asp)
-- [Web Site Name](http://url.link.goes.here)
+- [Web Site Name](https://gemini.google.com/app)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- Item I neeed to make a jframe and set things up for the gui and put that all into its own class.
+- Item 2 I want to make user input possible so I can make custom skills and record them to a file for later.
+- Item 3 I need to make the buttons for the gui that will enable the actual interaction between user and software.
