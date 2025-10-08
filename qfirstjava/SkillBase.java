@@ -41,7 +41,7 @@ public abstract class SkillBase {
         isUnlocked = true;
     }
 
-    // complete PlayerProgress first
+
 
     public boolean canUnlock(PlayerProgress progess){
         System.out.println("try me!!");
